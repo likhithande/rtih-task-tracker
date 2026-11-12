@@ -140,10 +140,10 @@ Follow these simple steps using XAMPP:
 Evaluators are encouraged to use the **Register** page to create fresh test accounts.
 
 To test multi-user isolation:
-1. Register Account A: `alice@example.com` / `Password123`
-2. Create tasks under Alice's account.
-3. Log out and register Account B: `bob@example.com` / `Password123`
-4. Notice that Bob's dashboard is completely empty and Bob cannot see, edit, or delete Alice's tasks.
+1. Register Account A: `likhith@gmail.com` / `Password123`
+2. Create tasks under likhith's account.
+3. Log out and register Account B: `ande@gmail.com` / `Password123`
+4. Notice that ande's dashboard is completely empty and Bob cannot see, edit, or delete likhith's tasks.
 
 ---
 
