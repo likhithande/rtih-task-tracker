@@ -265,10 +265,3 @@ AI coding assistance was used during development. I reviewed and tested the gene
 - **Level 2 — Completed** (Search by title, Filter by status, Combined search/filter, Frontend & Backend validation).
 - **Level 3 — Completed** (Password hashing, PDO prepared statements, XSS defense, CSRF defense, and strict user-level authorization).
 
-### Known Limitations:
-No major known limitations for the assignment requirements.
-
----
-
-*Developed for the Ratan Tata Innovation Hub Amaravati Foundation (RTIH) IT Internship Technical Assignment.*
-
